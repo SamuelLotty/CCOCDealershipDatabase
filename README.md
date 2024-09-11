@@ -6,6 +6,7 @@ Created a menu that allowed users to add, modify, view orders, and delete orders
 // ALGORITHM
 //***************
 
+
 START
 TRY 
 Connect to database.
@@ -175,6 +176,8 @@ end
 //*********************
 // PLAN OVERVIEW 
 //*********************
+
+
 -Started project 
 -Connect to the database from eclipse
 -Create first start menu where selection of other menus are there through buttons 
